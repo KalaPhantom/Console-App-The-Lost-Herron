@@ -1,0 +1,28 @@
+D:\Programming Projects\Testtt 1\bin\Debug\net7.0\Testtt 1.exe
+D:\Programming Projects\Testtt 1\bin\Debug\net7.0\Testtt 1.deps.json
+D:\Programming Projects\Testtt 1\bin\Debug\net7.0\Testtt 1.runtimeconfig.json
+D:\Programming Projects\Testtt 1\bin\Debug\net7.0\Testtt 1.dll
+D:\Programming Projects\Testtt 1\bin\Debug\net7.0\Testtt 1.pdb
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\Testtt 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\Testtt 1.AssemblyInfoInputs.cache
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\Testtt 1.AssemblyInfo.cs
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\Testtt 1.csproj.CoreCompileInputs.cache
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\Testtt 1.dll
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\refint\Testtt 1.dll
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\Testtt 1.pdb
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\Testtt 1.genruntimeconfig.cache
+D:\Programming Projects\Testtt 1\obj\Debug\net7.0\ref\Testtt 1.dll
+D:\Programming Projects\Console application Project\bin\Debug\net7.0\Testtt 1.exe
+D:\Programming Projects\Console application Project\bin\Debug\net7.0\Testtt 1.deps.json
+D:\Programming Projects\Console application Project\bin\Debug\net7.0\Testtt 1.runtimeconfig.json
+D:\Programming Projects\Console application Project\bin\Debug\net7.0\Testtt 1.dll
+D:\Programming Projects\Console application Project\bin\Debug\net7.0\Testtt 1.pdb
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\Testtt 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\Testtt 1.AssemblyInfoInputs.cache
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\Testtt 1.AssemblyInfo.cs
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\Testtt 1.csproj.CoreCompileInputs.cache
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\Testtt 1.dll
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\refint\Testtt 1.dll
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\Testtt 1.pdb
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\Testtt 1.genruntimeconfig.cache
+D:\Programming Projects\Console application Project\obj\Debug\net7.0\ref\Testtt 1.dll

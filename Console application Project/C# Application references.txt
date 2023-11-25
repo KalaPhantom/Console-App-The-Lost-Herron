@@ -1,0 +1,111 @@
+C# Application references
+
+// Getting the set cursor position (The cursor position in C#)
+https://www.geeksforgeeks.org/console-setcursorposition-method-in-c-sharp/
+\\
+
+// Playing sound in console
+https://www.youtube.com/watch?v=wAYN2BABnG0
+\\
+
+
+
+Programming task 
+
+
+
+1. Build the Game UI{
+    [] The Game Algorithm
+        []Player Attack
+        []Player Health System
+        []Player Progress Bar
+}
+
+2. Code and Design the game{
+    [] Finalize
+}
+
+
+//////// Code Snippet
+
+--> dotnet publish --configuration Release // Build the console app in to an -.exe file
+
+Ternary Operations:
+    --> string answer = five == 5 ? "true" : "false"
+
+Colorization of console
+    --> Console.BackgroundColor = ConsoleColor.Black;
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("Red text over black.");
+references <a href ="https://stackoverflow.com/questions/2743260/is-it-possible-to-write-to-the-console-in-colour-in-net">color</a>
+
+ANSI color escape{
+    --> 
+
+    <ln>https://stackoverflow.com/questions/4842424/list-of-ansi-color-escape-sequences</ln>
+}
+
+
+
+List of the methods used
+
+-> mainmenu.cs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Decorators
+
+
+
+
+The Title Screen:
+
+
+████████╗██╗  ██╗███████╗    ██╗      ██████╗ ███████╗████████╗    ██╗  ██╗███████╗██████╗ ██████╗  ██████╗ ███╗   ██╗
+╚══██╔══╝██║  ██║██╔════╝    ██║     ██╔═══██╗██╔════╝╚══██╔══╝    ██║  ██║██╔════╝██╔══██╗██╔══██╗██╔═══██╗████╗  ██║
+   ██║   ███████║█████╗      ██║     ██║   ██║███████╗   ██║       ███████║█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║
+   ██║   ██╔══██║██╔══╝      ██║     ██║   ██║╚════██║   ██║       ██╔══██║██╔══╝  ██╔══██╗██╔══██╗██║   ██║██║╚██╗██║
+   ██║   ██║  ██║███████╗    ███████╗╚██████╔╝███████║   ██║       ██║  ██║███████╗██║  ██║██║  ██║╚██████╔╝██║ ╚████║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝ ╚═════╝ ╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+                                                                                                                      
+
+The Game Over Screen 
+
+
+  ▄████  ▄▄▄       ███▄ ▄███▓▓█████     ▒█████   ██▒   █▓▓█████  ██▀███  
+ ██▒ ▀█▒▒████▄    ▓██▒▀█▀ ██▒▓█   ▀    ▒██▒  ██▒▓██░   █▒▓█   ▀ ▓██ ▒ ██▒
+▒██░▄▄▄░▒██  ▀█▄  ▓██    ▓██░▒███      ▒██░  ██▒ ▓██  █▒░▒███   ▓██ ░▄█ ▒
+░▓█  ██▓░██▄▄▄▄██ ▒██    ▒██ ▒▓█  ▄    ▒██   ██░  ▒██ █░░▒▓█  ▄ ▒██▀▀█▄  
+░▒▓███▀▒ ▓█   ▓██▒▒██▒   ░██▒░▒████▒   ░ ████▓▒░   ▒▀█░  ░▒████▒░██▓ ▒██▒
+ ░▒   ▒  ▒▒   ▓▒█░░ ▒░   ░  ░░░ ▒░ ░   ░ ▒░▒░▒░    ░ ▐░  ░░ ▒░ ░░ ▒▓ ░▒▓░
+  ░   ░   ▒   ▒▒ ░░  ░      ░ ░ ░  ░     ░ ▒ ▒░    ░ ░░   ░ ░  ░  ░▒ ░ ▒░
+░ ░   ░   ░   ▒   ░      ░      ░      ░ ░ ░ ▒       ░░     ░     ░░   ░ 
+      ░       ░  ░       ░      ░  ░       ░ ░        ░     ░  ░   ░     
+
+                                                     ░                          
+
+Ending Screen 
+
+,--,--'.        .-,--.       . 
+`- |   |-. ,-.   `\__  ,-. ,-| 
+ , |   | | |-'    /    | | | | 
+ `-'   ' ' `-'   '`--' ' ' `-^ 
+                               
+                               
