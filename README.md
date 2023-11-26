@@ -1,6 +1,7 @@
 # Console-App-The-Lost-Herron
 A console app dedicated from the ITEC 102
 
+State: in progress
 Created By:
 
 Allen Lerado
